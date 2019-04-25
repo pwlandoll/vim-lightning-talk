@@ -5,8 +5,8 @@
 ## What is Vim?
 
 @ul[spaced]
-- Editor
-- Terminal
+- Text Editor
+- Terminal-based
 - Extensible
 @ulend
 
@@ -18,4 +18,9 @@
 - Inescapable Prison
 - Only for l33t h4x0rs
 @ulend
+
+---
+
+### Vim
+![](assets/img/vim-default.png)
 
