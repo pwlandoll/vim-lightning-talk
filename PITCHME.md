@@ -26,7 +26,7 @@
 
 ---
 
-### Modes
+## Modes
 
 @ul[spaced]
 - Normal
