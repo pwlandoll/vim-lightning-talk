@@ -15,6 +15,7 @@
 ## What is Vim *not*?
 
 @ul[spaced]
+- IDE
 - Inescapable Prison
 - Only for l33t h4x0rs
 @ulend
