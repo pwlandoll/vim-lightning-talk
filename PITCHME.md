@@ -22,5 +22,5 @@
 ---
 
 ### Vim
-![](assets/img/vim-default.png)
+![](assets/img/vim-default-small.png)
 
