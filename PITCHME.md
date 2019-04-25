@@ -1,4 +1,4 @@
-# Vim
+# vim
 
 ---
 
@@ -21,6 +21,15 @@
 
 ---
 
-### Vim
+### vim
 ![](assets/img/vim-default-small.png)
 
+---
+
+### Modes
+
+@ul[spaced]
+- Normal
+- Insert
+- Visual
+@ulend
