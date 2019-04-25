@@ -2,7 +2,7 @@
 
 ---
 
-@snap[north]
+@snap[north span-20]
 ## What is Vim?
 @snapend
 
@@ -14,7 +14,7 @@
 
 ---
 
-@snap[north]
+@snap[north span-20]
 ## What is Vim *not*?
 @snapend
 
