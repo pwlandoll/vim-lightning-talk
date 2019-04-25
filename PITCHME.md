@@ -2,9 +2,7 @@
 
 ---
 
-@snap[north]
 ## What is Vim?
-@snapend
 
 @ul[spaced]
 - Editor
@@ -14,9 +12,7 @@
 
 ---
 
-@snap[north]
 ## What is Vim *not*?
-@snapend
 
 @ul[spaced]
 - Inescapable Prison
