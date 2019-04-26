@@ -1,4 +1,4 @@
-# vim
+# Vim
 
 ---
 
@@ -22,7 +22,7 @@
 
 ---
 
-### vim
+### Vim
 ![](assets/img/vim-default-small.png)
 
 ---
@@ -34,3 +34,10 @@
 - Insert
 - Visual
 @ulend
+
+---
+
+## Where to start?
+
+`vimtutor`
+
