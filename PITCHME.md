@@ -37,7 +37,8 @@ What is Vim *not*?
 ---
 
 ![](assets/img/vim-default-small.png)
-Vim
+
+*Vim*
 
 ---
 
