@@ -1,8 +1,11 @@
-# Vim
+Vim
+===
+https://github.com/pwlandoll/vim-lightning-talk
 
 ---
 
-## What is Vim?
+What is Vim?
+------------
 
 @ul[spaced]
 - Text Editor
@@ -12,7 +15,8 @@
 
 ---
 
-## What is Vim *not*?
+What is Vim *not*?
+------------------
 
 @ul[spaced]
 - IDE
@@ -22,21 +26,24 @@
 
 ---
 
-## *Why* Vim?
+*Why* Vim?
+----------
 
 @ul[spaced]
-* Terminal-based
-* Customizable
+- Terminal-based
+- Customizable
 @ulend
 
 ---
 
-### Vim
+Vim
+---
 ![](assets/img/vim-default-small.png)
 
 ---
 
-## Modes
+Modes
+-----
 
 @ul[spaced]
 - Normal
@@ -46,7 +53,14 @@
 
 ---
 
-## Where to start?
+Where to start?
+---------------
 
 `vimtutor`
 
+---
+
+:q
+--
+
+Questions?
