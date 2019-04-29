@@ -22,6 +22,15 @@
 
 ---
 
+## *Why* Vim?
+
+@ul[spaced]
+* Terminal-based
+* Customizable
+@ulend
+
+---
+
 ### Vim
 ![](assets/img/vim-default-small.png)
 
